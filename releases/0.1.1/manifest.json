@@ -1,0 +1,22 @@
+{
+  "version": "0.1.1",
+  "releasedAt": "2026-04-30T16:18:08Z",
+  "artifacts": [
+    {
+      "platform": "windows",
+      "format": "zip",
+      "file": "MannixSquared-Plugin-Bundle-Windows.zip",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.1/MannixSquared-Plugin-Bundle-Windows.zip",
+      "sha256": "5411d00e14b6454dfa0f94aadb076ae199b58adbc3048ae7b7308804330e3d87",
+      "sizeBytes": 30962138
+    },
+    {
+      "platform": "macos",
+      "format": "pkg",
+      "file": "MannixSquared-Plugin-Bundle-macOS.pkg",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.1/MannixSquared-Plugin-Bundle-macOS.pkg",
+      "sha256": "3514c956b962f2634f127db9605b18558fb7458cb06f673496a7e0ad1b980c27",
+      "sizeBytes": 135718220
+    }
+  ]
+}
