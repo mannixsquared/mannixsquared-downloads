@@ -17,6 +17,14 @@
       "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.2/MannixSquared-Plugin-Bundle-macOS.pkg",
       "sha256": "4a360bc58a8e08988be5507ac2358692248eb8279a9d0d492f864fd55524a362",
       "sizeBytes": 135726371
+    },
+    {
+      "platform": "linux",
+      "format": "zip",
+      "file": "MannixSquared-Plugin-Bundle-Linux-VST3.zip",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.2/MannixSquared-Plugin-Bundle-Linux-VST3.zip",
+      "sha256": "9a49faeb3627244146c4ec8245798e2f1e54ee7706630d2dbb2e99485ad058d3",
+      "sizeBytes": 42269689
     }
   ]
 }
