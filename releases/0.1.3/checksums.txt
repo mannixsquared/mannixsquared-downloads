@@ -1,0 +1,2 @@
+c4d31d2304cc51f6f3f69f753f9f1746b31028d7d17ffa3b57ba0f880d781243  MannixSquared-Plugin-Bundle-Windows.zip
+9d0c52b56a8560194de10b3269fdbfb555ff2a289f034b58e1d317a31518ffbc  MannixSquared-Plugin-Bundle-macOS.pkg
