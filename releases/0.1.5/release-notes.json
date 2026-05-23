@@ -1,0 +1,70 @@
+{
+  "version": "0.1.5",
+  "releasedAt": "2026-05-03T14:11:56Z",
+  "plugins": [
+    {
+      "id": "mix-space",
+      "name": "Mix Space",
+      "version": "3.0.5",
+      "tag": "v3.0.5",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Changed\n- Bumped the plugin release version to v3.0.5 for the bundle release.",
+      "source": "mannixsquared/mix-space@v3.0.5"
+    },
+    {
+      "id": "super-saturator",
+      "name": "Super Saturator",
+      "version": "2.0.4",
+      "tag": "v2.0.4",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Fixed\n- Fixed Linux shared UI kit linking for release builds.\n\n### Changed\n- Prepared the native JUCE v2 release and bumped the plugin release version to v2.0.4.",
+      "source": "mannixsquared/super-saturator@v2.0.4"
+    },
+    {
+      "id": "tight-low-end",
+      "name": "Tight Low End",
+      "version": "2.0.4",
+      "tag": "v2.0.4",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Fixed\n- Reverted an accidental gain reduction smoothing change.\n\n### Changed\n- Migrated the active plugin to native JUCE and bumped the plugin release version to v2.0.4.",
+      "source": "mannixsquared/tight-low-end@v2.0.4"
+    },
+    {
+      "id": "quick-chain",
+      "name": "Quick Chain",
+      "version": "2.0.4",
+      "tag": "v2.0.4",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Changed\n- Migrated Quick Chain to the native JUCE implementation.\n- Tuned sidechain ducking behavior and scope speed.\n- Standardized release naming and bumped the plugin release version to v2.0.4.",
+      "source": "mannixsquared/quick-chain@v2.0.4"
+    },
+    {
+      "id": "mannix-phat",
+      "name": "Mannix Phat",
+      "version": "1.0.3",
+      "tag": "v1.0.3",
+      "notesMarkdown": "### Added\n- Added host-visible factory presets.\n- Added support for the shared Mannix Squared update checker.\n\n### Changed\n- Bumped the plugin release version to v1.0.3.",
+      "source": "mannixsquared/mannix-phat@v1.0.3"
+    },
+    {
+      "id": "ab-reference",
+      "name": "AB Reference",
+      "version": "2.0.4",
+      "tag": "v2.0.4",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Changed\n- Bumped the plugin release version to v2.0.4.",
+      "source": "mannixsquared/ab-reference@v2.0.4"
+    },
+    {
+      "id": "smear-campaign",
+      "name": "Smear Campaign",
+      "version": "2.0.4",
+      "tag": "v2.0.4",
+      "notesMarkdown": "### Added\n- Added AU release builds.\n- Added support for the shared Mannix Squared update checker.\n\n### Changed\n- Migrated Smear Campaign to the native JUCE implementation.\n- Bumped the plugin release version to v2.0.4.",
+      "source": "mannixsquared/smear-campaign@v2.0.4"
+    },
+    {
+      "id": "detail-preserving-clipper",
+      "name": "Detail Preserving Clipper",
+      "version": "1.0.13",
+      "tag": "v1.0.13",
+      "notesMarkdown": "### Added\n- Added support for the shared Mannix Squared update checker.\n\n### Fixed\n- Clamped the foldback contribution in the clipper processing.\n\n### Changed\n- Bumped the plugin release version to v1.0.13.",
+      "source": "mannixsquared/detail-preserving-clipper@v1.0.13"
+    }
+  ]
+}

@@ -6,42 +6,50 @@
     {
       "id": "mix-space",
       "name": "Mix Space",
-      "version": "3.0.5"
+      "version": "3.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "super-saturator",
       "name": "Super Saturator",
-      "version": "2.0.4"
+      "version": "2.0.4",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "tight-low-end",
       "name": "Tight Low End",
-      "version": "2.0.4"
+      "version": "2.0.4",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "quick-chain",
       "name": "Quick Chain",
-      "version": "2.0.4"
+      "version": "2.0.4",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "mannix-phat",
       "name": "Mannix Phat",
-      "version": "1.0.3"
+      "version": "1.0.3",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "ab-reference",
       "name": "AB Reference",
-      "version": "2.0.4"
+      "version": "2.0.4",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "smear-campaign",
       "name": "Smear Campaign",
-      "version": "2.0.4"
+      "version": "2.0.4",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     },
     {
       "id": "detail-preserving-clipper",
       "name": "Detail Preserving Clipper",
-      "version": "1.0.13"
+      "version": "1.0.13",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json"
     }
   ],
   "artifacts": [
@@ -69,5 +77,9 @@
       "sha256": "d24f9b0c2e9713f1d16b2eaf27e87d24a3ba5e821ce14e82de293df7c40404bd",
       "sizeBytes": 137709621
     }
-  ]
+  ],
+  "releaseNotes": {
+    "path": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.json",
+    "markdownPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.5/release-notes.md"
+  }
 }
