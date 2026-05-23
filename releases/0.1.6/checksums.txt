@@ -1,0 +1,3 @@
+e734b2760d60c7f4ae13fd1cccb32e76dec659c241ae40230386254d6fc93633  MannixSquared-Plugin-Bundle-Linux-VST3.zip
+6571f1cb81eb69aff6de09ce426291b433d03fed6ee9937a868c01a8bc5154c1  MannixSquared-Plugin-Bundle-Windows.zip
+75e5702067115f535fca47359252d5336ce6275996e2c19e05e0a4004438e515  MannixSquared-Plugin-Bundle-macOS.pkg

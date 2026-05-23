@@ -1,0 +1,85 @@
+{
+  "version": "0.1.6",
+  "releasedAt": "2026-05-23T19:51:41Z",
+  "downloadPage": "https://mannixsquared.com/downloads",
+  "releaseNotes": {
+    "path": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json",
+    "markdownPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.md"
+  },
+  "plugins": [
+    {
+      "id": "mix-space",
+      "name": "Mix Space",
+      "version": "3.1.0",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "super-saturator",
+      "name": "Super Saturator",
+      "version": "2.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "tight-low-end",
+      "name": "Tight Low End",
+      "version": "2.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "quick-chain",
+      "name": "Quick Chain",
+      "version": "2.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "mannix-phat",
+      "name": "Mannix Phat",
+      "version": "1.1.1",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "ab-reference",
+      "name": "AB Reference",
+      "version": "2.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "smear-campaign",
+      "name": "Smear Campaign",
+      "version": "2.0.5",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    },
+    {
+      "id": "detail-preserving-clipper",
+      "name": "Detail Preserving Clipper",
+      "version": "1.0.14",
+      "releaseNotesPath": "https://raw.githubusercontent.com/mannixsquared/mannixsquared-downloads/main/releases/0.1.6/release-notes.json"
+    }
+  ],
+  "artifacts": [
+    {
+      "platform": "linux",
+      "format": "zip",
+      "file": "MannixSquared-Plugin-Bundle-Linux-VST3.zip",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.6/MannixSquared-Plugin-Bundle-Linux-VST3.zip",
+      "sha256": "e734b2760d60c7f4ae13fd1cccb32e76dec659c241ae40230386254d6fc93633",
+      "sizeBytes": 42644675
+    },
+    {
+      "platform": "windows",
+      "format": "zip",
+      "file": "MannixSquared-Plugin-Bundle-Windows.zip",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.6/MannixSquared-Plugin-Bundle-Windows.zip",
+      "sha256": "6571f1cb81eb69aff6de09ce426291b433d03fed6ee9937a868c01a8bc5154c1",
+      "sizeBytes": 31178135
+    },
+    {
+      "platform": "macos",
+      "format": "pkg",
+      "file": "MannixSquared-Plugin-Bundle-macOS.pkg",
+      "path": "https://github.com/mannixsquared/mannixsquared-downloads/releases/download/v0.1.6/MannixSquared-Plugin-Bundle-macOS.pkg",
+      "sha256": "75e5702067115f535fca47359252d5336ce6275996e2c19e05e0a4004438e515",
+      "sizeBytes": 138273841
+    }
+  ]
+}

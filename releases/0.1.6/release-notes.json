@@ -1,0 +1,70 @@
+{
+  "version": "0.1.6",
+  "releasedAt": "2026-05-23T19:51:41Z",
+  "plugins": [
+    {
+      "id": "mix-space",
+      "name": "Mix Space",
+      "version": "3.1.0",
+      "tag": "v3.1.0",
+      "notesMarkdown": "### Changed\n- Updated reported latency dynamically so latency is only advertised while spectral processing needs plugin delay compensation.\n- Kept zero-latency processing paths from reporting unnecessary delay.",
+      "source": "mannixsquared/mix-space@v3.1.0"
+    },
+    {
+      "id": "super-saturator",
+      "name": "Super Saturator",
+      "version": "2.0.5",
+      "tag": "v2.0.5",
+      "notesMarkdown": "### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/super-saturator@v2.0.5"
+    },
+    {
+      "id": "tight-low-end",
+      "name": "Tight Low End",
+      "version": "2.0.5",
+      "tag": "v2.0.5",
+      "notesMarkdown": "### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/tight-low-end@v2.0.5"
+    },
+    {
+      "id": "quick-chain",
+      "name": "Quick Chain",
+      "version": "2.0.5",
+      "tag": "v2.0.5",
+      "notesMarkdown": "### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/quick-chain@v2.0.5"
+    },
+    {
+      "id": "mannix-phat",
+      "name": "Mannix Phat",
+      "version": "1.1.1",
+      "tag": "v1.1.1",
+      "notesMarkdown": "### Added\n- Added tempo-sync controls and host-tempo rate labels for both LFOs.\n- Added DSP state versioning so older saved sessions retain the originally released filter behavior.\n\n### Changed\n- Routed new plugin states through the updated production filter engine for character filtering.\n- Updated the implementation notes with DSP compatibility guidance.",
+      "source": "mannixsquared/mannix-phat@v1.1.1"
+    },
+    {
+      "id": "ab-reference",
+      "name": "AB Reference",
+      "version": "2.0.5",
+      "tag": "v2.0.5",
+      "notesMarkdown": "### Fixed\n- Fixed the header version display and update-check version identifier so they use the build version.\n\n### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/ab-reference@v2.0.5"
+    },
+    {
+      "id": "smear-campaign",
+      "name": "Smear Campaign",
+      "version": "2.0.5",
+      "tag": "v2.0.5",
+      "notesMarkdown": "### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/smear-campaign@v2.0.5"
+    },
+    {
+      "id": "detail-preserving-clipper",
+      "name": "Detail Preserving Clipper",
+      "version": "1.0.14",
+      "tag": "v1.0.14",
+      "notesMarkdown": "### Changed\n- Standardized release version metadata through the CMake project version.\n- Added the shared JUCE 8 version guard and configurable `PLUGIN_UI_KIT_ROOT` path for release builds.",
+      "source": "mannixsquared/detail-preserving-clipper@v1.0.14"
+    }
+  ]
+}
